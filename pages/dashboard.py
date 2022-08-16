@@ -21,7 +21,7 @@ class Dashboard(BasePage):
     test_testowy_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[3]/div/div/a[3]/button/span[1]"
     scouts_panel_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[1]/div/div[2]/h2"
     polski_xpath = "//*[@id='__next']/div[1]/div/div/div/ul[2]/div[1]/div[2]/span"
-    
+
 
 
 

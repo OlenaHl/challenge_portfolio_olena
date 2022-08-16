@@ -44,5 +44,4 @@ feedback from experts in this field, which means acquiring new knowledge.
 //*[text()="English"]
 
 //*[contains(@class, "MuiSelect-root MuiSelect")]
-## Polski_hyperlink_xpath
-//*[text()="Polski"]
+
