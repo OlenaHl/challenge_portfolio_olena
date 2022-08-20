@@ -14,31 +14,31 @@ feedback from experts in this field, which means acquiring new knowledge.
 //*[text()="Remind password"]
 
 //child::div/a
-## Scouts_Panel_hyperlink_xpath
+## scouts_panel_hyperlink_xpath
 //*[@id="__next"]/form/div/div[1]/h5
 
 //*[text()="Scouts Panel"]
 
 //*[contains(@class, "MuiTypography-root MuiTypography")]
-## Login_hyperlink_xpath
+## login_hyperlink_xpath
 //*[@id="login"]
 
 //*[text()="Login"]
 
 //*[contains(@class, "MuiFormLabel-root MuiInputLabel")]
-## Password_hyperlink_xpath
+## password_hyperlink_xpath
 //*[@id="password"]
 
 //*[text()="Password"]
 
 //*[@name="password"]
-## SIGN_IN_hyperlink_xpath
+## sign_in_hyperlink_xpath
 //*[@id="__next"]/form/div/div[2]/button/span[1]
 
 //*[text()="Sign in"]
 
 //*[contains(@class, "MuiButton-label")]
-## English_hyperlink_xpath
+## english_hyperlink_xpath
 //*[@id="__next"]/form/div/div[2]/div/div
 
 //*[text()="English"]
