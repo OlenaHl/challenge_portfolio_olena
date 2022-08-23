@@ -20,6 +20,7 @@ class TestLoginPage(unittest.TestCase):
 
     def test_log_in_to_the_system(self):
         user_login = LoginPage(self.driver)
+        user_login.check_title_of_header()
         user_login.title_of_page()
         user_login.type_in_email('user07@getnada.com')
         user_login.type_in_password('Test-1234')
