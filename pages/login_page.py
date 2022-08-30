@@ -29,3 +29,6 @@ class LoginPage(BasePage):
     def check_title_of_header(self):
         self.assert_element_text(self.driver, self.title_of_box_xpath, self.header_of_box)
 
+    def click_on_the_remind_password_button(self):
+        self.click_on_the_element(self.remind_password_button_xpath)
+
